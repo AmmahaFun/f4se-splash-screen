@@ -10,7 +10,7 @@ A F4SE plugin that displays a custom splash screen with full PNG and transparenc
 Get the latest release from:  
 **[Releases Page](https://github.com/AmmahaFun/f4se-splash-screen/releases)**
 
-### Latest Version: v1.0.0
+### Latest Version: v1.0.0.0
 [![GitHub release](https://img.shields.io/github/v/release/AmmahaFun/f4se-splash-screen)](https://github.com/AmmahaFun/f4se-splash-screen/releases)
 
 ## 🖼️ Features
